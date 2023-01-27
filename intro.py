@@ -1,0 +1,3 @@
+print("Intro 
+
+HI everyone  I am Gaurav Kumar I was born in Aligarh Up but completed my studies in Dehradun Uttarakhand Currently doing my BTech Cse  from Upes, I am part of poker server team under mentorship of Amit aggarwal sir . I would say its been a great month  living in a new city as for me it was first time outside of my home so I enjoyed a lot and also learned a lot during this period from munges sir ,Amit sir and my  senior sarthak ,adarsh and saswat sir and everyone I have met since my first day, at last I would like to say that I will give my 100 percent in working with  you all thank you.")
